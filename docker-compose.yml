@@ -23,7 +23,7 @@ services:
 
 
   parcelenroute:
-    image: ghcr.io/harryiscodingg/parcelenroute:ffe03b9
+    image: ghcr.io/harinderpartapsingh/parcelenroute:27c95a2
     container_name: parcelenroute
     restart: unless-stopped
     environment:
