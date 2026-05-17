@@ -60,7 +60,7 @@ This deployment setup is used to host multiple self-managed applications behind 
 ├── infra/
 │   └── nginx/             # Nginx reverse proxy configuration
 ├── docker-compose.yml     # Docker Compose services for apps, proxy, and tunnel
-└── README.md              # Architecture and deployment documentation
+└── README.md              # Architecture and deployment documentations
 </pre>
 
 ## Key Components
